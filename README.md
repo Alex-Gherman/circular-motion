@@ -1,4 +1,8 @@
 # circular-motion
 
-Try to learn HTML canvas and javascript and remember Math.  
-Live Demo  https://alex-gherman.github.io/circular-motion/
+
+Javascript trying help HTML at Math
+
+circular-motion animation
+
+Live demo https://alex-gherman.github.io/circular-motion/
